@@ -1,3 +1,5 @@
+[Link](https://www.hackerrank.com/challenges/virtual-functions/problem)
+
 # Takeaway
 
 ###1. (Pure) virtual function
