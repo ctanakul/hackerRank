@@ -53,4 +53,5 @@
 ### 10.use of a correct type of variable
 - such as long, int etc
 - beware of overflow
+- try the input and output text in this workspace
 [More](https://stackoverflow.com/questions/31662792/multiplication-of-two-integers-in-c)
