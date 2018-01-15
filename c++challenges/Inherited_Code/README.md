@@ -16,7 +16,7 @@
 
 ### 2.Define new exceptions
 - Do so by inheriting and overriding exception class functionality
-- can override what()
+- can override [what()](https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm)
 
 ### 3. char* vs std::string
 
